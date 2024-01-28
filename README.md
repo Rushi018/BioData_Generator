@@ -9,4 +9,4 @@ Developed a Bio Data Generator using C# .NET Framework, making it easy to create
 2.SQL Server for robust and secure database connectivity.
 3.Integrated development environment (IDE) for coding and testing, such as Visual Studio.
 
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sql)](https://skillicons.dev)
