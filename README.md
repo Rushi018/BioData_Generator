@@ -12,5 +12,10 @@ Developed a Bio Data Generator using C# .NET Framework, making it easy to create
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sql)](https://skillicons.dev)
 
 # Screenshots :
-
+![Screenshot](https://github.com/Rushi018/BioData_Generator/blob/d3e833fb0474441a47d2591c7a8d0ecce073a2aa/screencapture-localhost-62523-Default-aspx-2024-01-28-10_43_32.png)
+![Screenshot](https://github.com/Rushi018/BioData_Generator/blob/d3e833fb0474441a47d2591c7a8d0ecce073a2aa/Screenshot%202024-01-28%20104428.png)
+![Screenshot](https://github.com/Rushi018/BioData_Generator/blob/d3e833fb0474441a47d2591c7a8d0ecce073a2aa/screencapture-localhost-62523-Qualification-aspx-2024-01-28-10_44_58.png)
+![Screenshot](https://github.com/Rushi018/BioData_Generator/blob/d3e833fb0474441a47d2591c7a8d0ecce073a2aa/Screenshot%202024-01-28%20112244.png)
+![Screenshot](https://github.com/Rushi018/BioData_Generator/blob/d3e833fb0474441a47d2591c7a8d0ecce073a2aa/screencapture-localhost-62523-Objective-aspx-2024-01-28-10_45_40.png)
+![Screenshot](https://github.com/Rushi018/BioData_Generator/blob/d3e833fb0474441a47d2591c7a8d0ecce073a2aa/screencapture-localhost-62523-Resume-aspx-2024-01-28-10_45_51.png)
 
